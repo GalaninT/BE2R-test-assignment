@@ -1,8 +1,8 @@
 # Заметки по статьям
 
-## Статья 1: Energy-Efficient Gait Adaptation via Hierarchical RL
+## Статья 1: Energy-Efficient Gait Adaptation via Hierarchical Reinforcement Learning for Quadrupedal Locomotion Across Diverse Terrains
 
-**Авторы:** Issa et al., 2025
+**Авторы:** A. Issa, A. Singh, A. Tsaritsin, S. Kolyubin, 2026
 
 **Метод:** Иерархический RL (HRL): высокоуровневая политика (HL) адаптирует параметры походки, низкоуровневая (LL) стабилизирует суставы. HL явно минимизирует Cost of Transport (CoT).
 
@@ -20,9 +20,9 @@
 
 ---
 
-## Статья 2: Robust Quadruped Locomotion via Evolutionary RL
+## Статья 2: Robust Quadruped Locomotion via Evolutionary Reinforcement Learning
 
-**Авторы:** McAteer & Mason, 2025
+**Авторы:** B. McAteer, K. Mason, 2026
 
 **Метод:** Сравнение DDPG, TD3, CEM-DDPG, CEM-TD3 на задаче ходьбы. Обучение на плоской поверхности, тестирование на пересечённой.
 
@@ -38,9 +38,9 @@
 
 ---
 
-## Статья 3: Generate, Track, Improve
+## Статья 3: Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators
 
-**Авторы:** Olkin et al., 2026
+**Авторы:** Z. Olkin, W.D. Compton, A.D. Armes, 2026
 
 **Метод:** Гуманоид. Генератор движений (flow matching transformer) + трекер (CLF-RL). Off-policy RL fine-tuning генератора через Advantage Weighted Regression (AWR).
 
