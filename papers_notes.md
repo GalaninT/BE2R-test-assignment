@@ -1,6 +1,6 @@
 # Заметки по статьям
 
-## Статья 1: Energy-Efficient Gait Adaptation via Hierarchical Reinforcement Learning for Quadrupedal Locomotion Across Diverse Terrains
+## 1. Energy-Efficient Gait Adaptation via Hierarchical Reinforcement Learning for Quadrupedal Locomotion Across Diverse Terrains
 
 **Авторы:** A. Issa, A. Singh, A. Tsaritsin, S. Kolyubin, 2026
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Статья 2: Robust Quadruped Locomotion via Evolutionary Reinforcement Learning
+## 2. Robust Quadruped Locomotion via Evolutionary Reinforcement Learning
 
 **Авторы:** B. McAteer, K. Mason, 2026
 
@@ -38,7 +38,7 @@
 
 ---
 
-## Статья 3: Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators
+## 3. Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators
 
 **Авторы:** Z. Olkin, W.D. Compton, A.D. Armes, 2026
 
